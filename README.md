@@ -1,1 +1,2 @@
-# game1.github.io
+# game1
+My First Game
